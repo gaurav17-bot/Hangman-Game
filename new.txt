@@ -1,0 +1,4 @@
+Hello you are reading
+and writing a fileHello you are reading
+and writing a fileHello you are reading
+and writing a file

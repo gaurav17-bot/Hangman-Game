@@ -1,0 +1,1 @@
+self.label1.setGeometry(0,200,300,50)
